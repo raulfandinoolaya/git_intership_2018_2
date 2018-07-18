@@ -11,8 +11,16 @@ Fandino Olaya
 Testing
 dance, traveling, watch football
 >>>>>>>>>>
+<<<<<<< HEAD
 1022413030
 Brenda Viviana
 Sastoque Cortes
 DevOps
 read, netflix, pets
+=======
+1014269878
+Lesly Paola
+Ortiz Gonzalez
+DevOps
+play videogames, rollerblading, go for a walk
+>>>>>>> 08fcdee2dc32d9c68f0bc82a318a73e7997951b9

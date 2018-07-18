@@ -1,4 +1,9 @@
 1020822419
+<<<<<<< HEAD
+Juan Miguel Gomez Ganem
+Front End
+playing videogames , reading ,  playing table tennis
+=======
 
 Juan Miguel 
 Gomez Ganem
@@ -6,3 +11,4 @@ Gomez Ganem
 Front End
 
 videogames , reading ,  ping-pong
+>>>>>>> b777b6a3d6ef440571e627d1c4877c770685909b
