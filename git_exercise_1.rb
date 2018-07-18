@@ -6,9 +6,10 @@ require 'filter'
 browser = Watir::Browser.new :chrome
 browser.goto 'http://todomvc.com/examples/react/#/'
 
+folder = "./people"
 
-Dir.entries(".").filter(/txt/).each{ |file_name|
-	info = File.read(file_name)
+Dir.entries(folder).filter(/txt/).each{ |file_name|
+	info = File.read("#{folder}/#{file_name}")
 	id = info.split("\n")[0]
 	name = info.split("\n")[1]
 	last_name = info.split("\n")[2]
